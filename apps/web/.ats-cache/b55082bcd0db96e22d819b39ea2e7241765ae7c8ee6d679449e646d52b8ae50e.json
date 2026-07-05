@@ -1,0 +1,145 @@
+{
+  "cacheKey": "b55082bcd0db96e22d819b39ea2e7241765ae7c8ee6d679449e646d52b8ae50e",
+  "targetRole": "engineer",
+  "analysisDate": "2026-04-29T10:29:33.070Z",
+  "analysis": {
+    "score": 72,
+    "overallAnalysis": "The resume is well-structured and effectively showcases the candidate's technical skills and experience. However, there are areas that require improvement, such as the lack of specific metrics and achievements in the internship and experience sections. Additionally, the resume could benefit from more tailored keywords to match the 'engineer' role.",
+    "breakdown": {
+      "formatting": {
+        "score": 8,
+        "feedback": [
+          "The resume is easy to read and navigate.",
+          "The use of bullet points and white space is effective.",
+          "The formatting is consistent throughout the resume.",
+          "The font and font size are clear and readable.",
+          "The margins are well-set, making the content stand out.",
+          "The use of bold text and italics is minimal and effective.",
+          "The resume is free of grammatical errors.",
+          "The overall aesthetic is professional and modern."
+        ]
+      },
+      "keywords": {
+        "score": 6,
+        "matchedKeywords": [
+          "JavaScript",
+          "Python",
+          "C/C++",
+          "SQL",
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "Django"
+        ],
+        "missingKeywords": [
+          "Agile development",
+          "Cloud computing",
+          "Cybersecurity",
+          "Data analytics",
+          "DevOps"
+        ],
+        "feedback": [
+          "The resume includes relevant technical keywords.",
+          "The keywords are well-distributed throughout the resume.",
+          "However, some keywords are missing, such as 'Agile development' and 'Cloud computing'.",
+          "The use of keywords could be more tailored to the 'engineer' role.",
+          "The resume could benefit from more specific technical terms.",
+          "The keywords are not overly repetitive, but some could be used more strategically.",
+          "The resume includes relevant frameworks and tools.",
+          "The keywords are relevant to the candidate's experience and skills."
+        ]
+      },
+      "structure": {
+        "score": 7,
+        "feedback": [
+          "The resume follows a logical and easy-to-follow structure.",
+          "The sections are well-defined and clearly labeled.",
+          "The use of headings and subheadings is effective.",
+          "The resume includes relevant sections, such as 'Education' and 'Projects'.",
+          "However, some sections could be more detailed, such as 'Internship / Experience'.",
+          "The resume could benefit from a 'Summary' or 'Objective' section.",
+          "The structure is easy to navigate, but some sections could be more concise."
+        ]
+      },
+      "content": {
+        "score": 7,
+        "feedback": [
+          "The resume includes relevant technical skills and experience.",
+          "The projects section is well-detailed and showcases the candidate's abilities.",
+          "The education section is clear and concise.",
+          "However, some sections could be more detailed, such as 'Internship / Experience'.",
+          "The resume could benefit from more specific metrics and achievements.",
+          "The content is well-written and free of grammatical errors.",
+          "The resume includes relevant certifications and achievements.",
+          "The content is relevant to the 'engineer' role, but could be more tailored."
+        ]
+      }
+    },
+    "suggestions": [
+      {
+        "category": "Keywords",
+        "priority": "high",
+        "issue": "Missing relevant keywords",
+        "suggestion": "Add more tailored keywords, such as 'Agile development' and 'Cloud computing', to the resume.",
+        "example": "Added 'Agile development' and 'Cloud computing' to the 'Skills' section.",
+        "impact": "Increased relevance to the 'engineer' role and improved keyword matching."
+      },
+      {
+        "category": "Structure",
+        "priority": "medium",
+        "issue": "Lack of 'Summary' or 'Objective' section",
+        "suggestion": "Add a 'Summary' or 'Objective' section to the top of the resume.",
+        "example": "Added a 'Summary' section highlighting the candidate's technical skills and experience.",
+        "impact": "Improved clarity and focus of the resume."
+      },
+      {
+        "category": "Content",
+        "priority": "high",
+        "issue": "Lack of specific metrics and achievements",
+        "suggestion": "Add more specific metrics and achievements to the 'Internship / Experience' section.",
+        "example": "Added 'Improved UI performance by 30% through optimized code' to the 'SkyForge – Frontend Application' project.",
+        "impact": "Increased credibility and demonstrated impact of the candidate's work."
+      },
+      {
+        "category": "Keywords",
+        "priority": "low",
+        "issue": "Overuse of certain keywords",
+        "suggestion": "Vary the use of keywords throughout the resume.",
+        "example": "Replaced 'JavaScript' with 'Frontend development' in the 'Skills' section.",
+        "impact": "Improved keyword diversity and reduced repetition."
+      },
+      {
+        "category": "Structure",
+        "priority": "low",
+        "issue": "Section length",
+        "suggestion": "Condense longer sections, such as 'Projects', to improve readability.",
+        "example": "Condensed the 'Projects' section to focus on the most relevant information.",
+        "impact": "Improved readability and reduced clutter."
+      },
+      {
+        "category": "Content",
+        "priority": "medium",
+        "issue": "Lack of relevant certifications",
+        "suggestion": "Add more relevant certifications, such as 'AWS Certified Developer', to the resume.",
+        "example": "Added 'AWS Certified Developer' to the 'Achievements & Responsibilities' section.",
+        "impact": "Increased credibility and demonstrated expertise in cloud development."
+      }
+    ],
+    "strengths": [
+      "Strong technical skills",
+      "Relevant experience and projects",
+      "Clear and concise writing",
+      "Effective use of formatting and structure",
+      "Relevant certifications and achievements"
+    ],
+    "weaknesses": [
+      "Lack of specific metrics and achievements",
+      "Missing relevant keywords",
+      "Limited detail in some sections",
+      "Overuse of certain keywords",
+      "Section length and readability"
+    ]
+  },
+  "resumeTextHash": "d01b4b5b29f83c195913b49b4463c9f82253f9e3e34abe5b18066d81016dab41",
+  "resumeLength": 2604
+}

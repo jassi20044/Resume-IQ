@@ -1,0 +1,23 @@
+declare module 'pdf-parse-fork' {
+    interface PDFData {
+        numpages: number
+        numrender: number
+        info: any
+        metadata: any
+        text: string
+        version: string
+    }
+
+    interface PDFOptions {
+        max?: number
+        version?: string
+        pagerender?: (pageData: any) => string
+    }
+
+    function pdfParse(
+        dataBuffer: Buffer,
+        options?: PDFOptions
+    ): Promise<PDFData>
+
+    export default pdfParse
+}

@@ -1,0 +1,77 @@
+{
+  "cacheKey": "793c2d1552fbd9f89832862690d9fbd8dba30edfbf603057065dfb0782b55795",
+  "targetRole": "operations",
+  "analysisDate": "2026-01-29T05:10:04.570Z",
+  "analysis": {
+    "score": 47,
+    "breakdown": {
+      "formatting": {
+        "score": 20,
+        "feedback": [
+          "Basic formatting analysis applied (AI analysis unavailable)"
+        ]
+      },
+      "keywords": {
+        "score": 0,
+        "matchedKeywords": [],
+        "missingKeywords": [
+          "communication",
+          "teamwork",
+          "problem solving",
+          "leadership"
+        ],
+        "feedback": [
+          "Missing 4 important keywords for this role"
+        ]
+      },
+      "structure": {
+        "score": 15,
+        "feedback": [
+          "Standard structure analysis applied"
+        ]
+      },
+      "content": {
+        "score": 12,
+        "feedback": [
+          "Add more measurable achievements with numbers and percentages"
+        ]
+      }
+    },
+    "suggestions": [
+      {
+        "category": "Keywords",
+        "priority": "high",
+        "issue": "Missing 4 role-specific keywords",
+        "suggestion": "Add these skills to your resume: communication, teamwork, problem solving, leadership",
+        "example": "Skills: communication, teamwork, problem solving",
+        "impact": "+10-20 points"
+      },
+      {
+        "category": "Content",
+        "priority": "high",
+        "issue": "Missing quantified achievements",
+        "suggestion": "Add numbers, percentages, and metrics to show your impact",
+        "example": "Improved system performance by 40%, reducing load time from 3s to 1.8s",
+        "impact": "+5-10 points"
+      },
+      {
+        "category": "Structure",
+        "priority": "medium",
+        "issue": "Ensure proper ATS-friendly structure",
+        "suggestion": "Use clear section headings: Experience, Education, Skills, Projects",
+        "example": "EXPERIENCE\nSoftware Engineer | Company Name | 2020-2024",
+        "impact": "+3-5 points"
+      }
+    ],
+    "strengths": [
+      "Resume uploaded successfully",
+      "Resume is readable"
+    ],
+    "weaknesses": [
+      "AI-powered analysis unavailable - using basic keyword matching",
+      "Missing many role-specific keywords"
+    ]
+  },
+  "resumeTextHash": "e1697d7fdc58d5ea62abe4f7918c6711757b71d66768e4d01d9c8d3a4b788722",
+  "resumeLength": 2565
+}
